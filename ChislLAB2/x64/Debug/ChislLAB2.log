@@ -1,0 +1,5 @@
+﻿  Gauss.cpp
+C:\Users\Бобан\Desktop\ChislLAB2\ChislLAB2\Gauss.cpp(114,39): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  LAB2.cpp
+  Создание кода...
+  ChislLAB2.vcxproj -> C:\Users\Бобан\Desktop\ChislLAB2\x64\Debug\ChislLAB2.exe
